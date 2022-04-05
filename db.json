@@ -1,6 +1,8 @@
 {
   "posts": [
-    { "id": 1, "firstName": "Prajwal", "lastName":"Veerabhadraiah", "from":"bengaluru" },
+    { "id": 1, "firstName": "Prajwal", "lastName":"Veerabhadraiah", "from":"bengaluru"},
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -9,5 +11,6 @@
   "profile": {
     "name": "typicode"
   }
-  
 }
+
+ 
